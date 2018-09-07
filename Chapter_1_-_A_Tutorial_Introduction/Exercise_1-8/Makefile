@@ -13,4 +13,4 @@ clean :
 
 
 run : main
-	./main 
+	./main < main.c 
